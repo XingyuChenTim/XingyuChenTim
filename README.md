@@ -35,12 +35,3 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCPhaeD01vsSDADirbS8OsTg)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-TBA
-<!--END_SECTION:activity-->
-
-</details>
