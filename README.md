@@ -4,7 +4,7 @@
 
 - 🔭 I'm a big badminton fan, playing badminton three times a week in Boulder and Westminster
 - 🌱 I’m currently learning guitar 🤣
-- 👯 I’m looking to collaborate with professors in Data Science Field
+- 👯 I’m looking to collaborate with Professors in Data Science Field
 - 🥅 2021 Goals: Get internship for 2022 Summer
 - ⚡ Fun fact: I lose 45 pounds from February to June in 2021
 
