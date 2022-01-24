@@ -2,11 +2,10 @@
 
 ## I'm a graduate student in CU Boulder, Master in Data Science
 
-- 🔭 I'm a big badminton fan, playing badminton three times a week in Boulder and Westminster
-- 🌱 I’m currently learning guitar 🤣
+- 🔭 I'm a big badminton fan, playing badminton four times a week in Boulder, Westminster, Lakewood, and Thornton.
+- 🌱 I’m currently learning guitar and ski 🤣
 - 👯 I’m looking to collaborate with Professors in Data Science Field
-- 🥅 2021 Goals: Get internship for 2022 Summer
-- ⚡ Fun fact: I lose 45 pounds from February to June in 2021
+- 🥅 2022 Goals: Internship for 2022 Summer
 
 ### Languages and Tools:
 
@@ -27,9 +26,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [2021 Cornhusker State Game Badminton MD Final](https://www.youtube.com/watch?v=e1hwAkgqz8E)
-- [UNMC Badminton Tues 07/13 MS1](https://www.youtube.com/watch?v=KGe7Iarm-1s)
-- [UNMC Badminton Sat 07/10 MD1](https://www.youtube.com/watch?v=0CNi3aCDxfw)
+- [Best Plays Early January 2022 - Boulder Badminton Club](https://www.youtube.com/watch?v=cFVn4pZQCok)
+- [Fun Plays Early January 2022 - Boulder Badminton Club](https://www.youtube.com/watch?v=iLYwoj2gLQ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPhaeD01vsSDADirbS8OsTg)
